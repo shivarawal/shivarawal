@@ -1,16 +1,32 @@
 <div align="center">
 
+<img src="./assets/banner-dark.svg" alt="Shiva Rawal Banner" width="100%" />
+
 # 👋 Hi, I'm Shiva Rawal
 
-### DevOps Engineer | Platform Engineer | Cloud Enthusiast
+### DevOps Engineer • Platform Engineer • Cloud Enthusiast
 
-Building production-grade infrastructure, Kubernetes platforms, CI/CD pipelines, and observability solutions.
+Building production-grade infrastructure, Kubernetes platforms, CI/CD pipelines and observability solutions.
 
----
+<p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/Engineering%20OS-Portfolio-success?style=for-the-badge)](YOUR_GITHUB)
+<a href="https://linkedin.com/in/shivarawal">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://x.com/Devops_Shiva">
+<img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x"/>
+</a>
+
+<a href="https://github.com/shivarawal">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
 
 </div>
 
@@ -18,137 +34,24 @@ Building production-grade infrastructure, Kubernetes platforms, CI/CD pipelines,
 
 # 🚀 About Me
 
-- 💻 DevOps Engineer with 2+ years of hands-on experience
-- ☸ Building production-grade Kubernetes environments
+- 💼 DevOps Engineer with 2+ years of production experience
+- ☸️ Building Kubernetes platforms using kubeadm
 - 🐳 Docker & Container Platform enthusiast
-- 🌍 Learning Cloud, Platform Engineering & DevOps at enterprise scale
-- 📚 Currently preparing for CKA
-- 🚀 Building **Engineering OS** — a collection of real-world DevOps platforms
+- ⚙️ Infrastructure Automation using Terraform
+- ☁️ Learning Azure Cloud Platform
+- 📊 Passionate about Observability & Monitoring
+- 📚 Preparing for Certified Kubernetes Administrator (CKA)
+- 🚀 Building **Engineering OS** – a collection of enterprise DevOps platforms
 
 ---
 
 # 🛠 Tech Stack
 
-## Operating Systems
+<p align="center">
 
-- Rocky Linux
-- Ubuntu
-- CentOS
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,azure,bash,git,githubactions,python,mysql,vscode&perline=6"/>
 
-## DevOps
-
-- Docker
-- Kubernetes
-- Helm
-- GitHub Actions
-- Git
-- Bash
-
-## Cloud
-
-- Microsoft Azure
-- Terraform
-
-## Monitoring
-
-- Prometheus
-- Grafana
-- Loki
-- Elasticsearch
-- Kibana
-- Filebeat
-
-## Databases
-
-- MySQL
-- MariaDB
-
-## Web Servers
-
-- Nginx
-- Apache
-
-## Languages
-
-- Bash
-- YAML
-- Python (Learning)
-
----
-
-# 🚀 Engineering OS
-
-A collection of production-grade engineering platforms.
-
-| Platform | Description |
-|----------|-------------|
-| 🛡 Sentinel | Enterprise Observability Platform |
-| ☸ Titan | Enterprise Kubernetes Platform |
-| 🏗 Atlas | Infrastructure as Code |
-| ⚙ Forge | CI/CD Platform |
-| 🗄 Helix | Database Platform |
-| 🔥 Phoenix | SRE Platform |
-| 🌐 Nexus | Networking Platform |
-| 🔐 Fortress | DevSecOps Platform |
-
----
-
-# 📂 Featured Projects
-
-## 🛡 Sentinel
-
-Enterprise monitoring platform using
-
-- Prometheus
-- Grafana
-- Loki
-- Elasticsearch
-- Kibana
-
----
-
-## ☸ Titan
-
-Production Kubernetes platform
-
-- kubeadm
-- Helm
-- Ingress
-- Storage
-- Networking
-- Security
-
----
-
-## ⚙ Forge
-
-GitHub Actions CI/CD
-
-- Build
-- Test
-- Deploy
-- Rollback
-- Docker
-- Kubernetes
-
----
-
-## 🏗 Atlas
-
-Infrastructure as Code
-
-- Terraform
-- Azure
-- Networking
-- Virtual Machines
-- Storage
-
----
-
-# 📜 Certifications
-
-- ✅ Microsoft Azure Fundamentals (AZ-900)
-- 🎯 Certified Kubernetes Administrator (In Progress)
+</p>
 
 ---
 
@@ -156,71 +59,98 @@ Infrastructure as Code
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivarawal&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivarawal&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=shivarawal&theme=github-dark&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 🐍 Contribution Snake
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://raw.githubusercontent.com/shivarawal/shivarawal/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 📈 GitHub Metrics
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="./metrics.svg"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏗 Engineering OS
 
-<p align="center">
+Building production-grade DevOps platforms.
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=2&column=4"/>
-
-</p>
+| Project | Description |
+|----------|-------------|
+| 🛡 Sentinel | Enterprise Monitoring Platform |
+| ☸ Titan | Kubernetes Platform |
+| 🏗 Atlas | Infrastructure as Code |
+| ⚙ Forge | CI/CD Platform |
+| 🗄 Helix | Database Platform |
+| 🔥 Phoenix | SRE Platform |
+| 🖥 Vertex | Linux Engineering |
+| 🌐 Nexus | Networking Engineering |
+| 🔐 Fortress | DevSecOps Platform |
+| 📨 Pulse | Messaging Platform |
 
 ---
 
 # 🎯 Current Focus
 
-✔ Platform Engineering
-
-✔ Kubernetes
-
-✔ GitOps
-
-✔ Terraform
-
-✔ Azure
-
-✔ Observability
-
-✔ Linux
-
-✔ CI/CD
-
-✔ DevSecOps
+- Kubernetes
+- Platform Engineering
+- Azure
+- Terraform
+- GitOps
+- GitHub Actions
+- Prometheus
+- Grafana
+- Loki
+- Elasticsearch
 
 ---
 
-# 📫 Let's Connect
+# 📜 Certifications
 
-- LinkedIn
-- Email
-- GitHub
+- ✅ Microsoft Azure Fundamentals (AZ-900)
+- 📖 Certified Kubernetes Administrator (In Progress)
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/shivarawal">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://x.com/Devops_Shiva">
+<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x"/>
+</a>
+
+</p>
 
 ---
 
@@ -228,6 +158,6 @@ Infrastructure as Code
 
 ### ⭐ Build • Break • Fix • Automate • Document ⭐
 
-**Engineering production-ready platforms, one project at a time.**
+![](https://komarev.com/ghpvc/?username=shivarawal&style=for-the-badge&color=blue)
 
 </div>
