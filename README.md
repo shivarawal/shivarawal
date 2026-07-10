@@ -2,7 +2,7 @@
 
 <img src="./assets/banner-dark.svg" alt="Shiva Rawal Banner" width="100%" />
 
-# 👋 Hi, I'm Shiva Rawal
+#  Hi, I'm Shiva Rawal
 
 ### DevOps Engineer • Platform Engineer • Cloud Enthusiast
 
@@ -32,25 +32,25 @@ Building production-grade infrastructure, Kubernetes platforms, CI/CD pipelines,
 
 ---
 
-# 🚀 About Me
+#  About Me
 
 I'm a **DevOps Engineer** with **2+ years of hands-on production experience** building, maintaining and automating infrastructure.
 
 My primary interests are:
 
-- ☸ Kubernetes & Platform Engineering
-- 🐳 Docker & Containerization
-- ⚙ Infrastructure as Code
-- ☁ Azure Cloud
-- 📊 Monitoring & Observability
-- 🚀 CI/CD Automation
-- 🐧 Linux System Administration
+-  Kubernetes & Platform Engineering
+-  Docker & Containerization
+-  Infrastructure as Code
+-  Azure Cloud
+-  Monitoring & Observability
+-  CI/CD Automation
+-  Linux System Administration
 
 Currently preparing for the **Certified Kubernetes Administrator (CKA)** certification while building enterprise-grade DevOps portfolio projects.
 
 ---
 
-# 💼 Production Experience
+# Production Experience
 
 - Linux Server Administration
 - Docker Container Management
@@ -69,7 +69,7 @@ Currently preparing for the **Certified Kubernetes Administrator (CKA)** certifi
 
 ---
 
-# 🛠 Tech Stack
+#  Tech Stack
 
 <p align="center">
 
@@ -79,28 +79,28 @@ Currently preparing for the **Certified Kubernetes Administrator (CKA)** certifi
 
 ---
 
-# ⭐ Featured Projects
+# Featured Projects
 
-## 🛡 Engineering OS
+##  Engineering OS
 
 A collection of production-style DevOps and Platform Engineering projects.
 
 ### Platforms
 
-- 🛡 Sentinel — Enterprise Observability Platform
-- ☸ Titan — Kubernetes Platform
-- 🏗 Atlas — Infrastructure as Code
-- ⚙ Forge — CI/CD Platform
-- 🗄 Helix — Database Platform
-- 🔥 Phoenix — Site Reliability Engineering
-- 🖥 Vertex — Linux Engineering
-- 🌐 Nexus — Networking Engineering
-- 🔐 Fortress — DevSecOps
-- 📨 Pulse — Messaging Platform
+- Sentinel — Enterprise Observability Platform
+- Titan — Kubernetes Platform
+- Atlas — Infrastructure as Code
+- Forge — CI/CD Platform
+- Helix — Database Platform
+- Phoenix — Site Reliability Engineering
+- Vertex — Linux Engineering
+- Nexus — Networking Engineering
+- Fortress — DevSecOps
+- Pulse — Messaging Platform
 
 ---
 
-# 📊 GitHub Statistics
+# GitHub Statistics
 
 <p align="center">
 
@@ -118,7 +118,7 @@ A collection of production-style DevOps and Platform Engineering projects.
 
 ---
 
-# 🐍 Contribution Graph
+# Contribution Graph
 
 <p align="center">
 
@@ -128,7 +128,7 @@ A collection of production-style DevOps and Platform Engineering projects.
 
 ---
 
-# 📈 GitHub Metrics
+# GitHub Metrics
 
 <p align="center">
 
@@ -138,7 +138,7 @@ A collection of production-style DevOps and Platform Engineering projects.
 
 ---
 
-# 🎯 Current Focus
+# Current Focus
 
 - Kubernetes
 - Platform Engineering
@@ -155,7 +155,7 @@ A collection of production-style DevOps and Platform Engineering projects.
 
 ---
 
-# 📚 Currently Learning
+#  Currently Learning
 
 - Certified Kubernetes Administrator (CKA)
 - Azure Platform Engineering
@@ -167,7 +167,7 @@ A collection of production-style DevOps and Platform Engineering projects.
 
 ---
 
-# 📜 Certifications
+# Certifications
 
 - ✅ Microsoft Azure Fundamentals (AZ-900)
 - 📖 Certified Kubernetes Administrator (In Progress)
@@ -196,7 +196,7 @@ A collection of production-style DevOps and Platform Engineering projects.
 
 <div align="center">
 
-## ⭐ Build • Automate • Scale • Observe • Secure ⭐
+##  Build • Automate • Scale • Observe • Secure 
 
 *"Building production-grade DevOps platforms one project at a time."*
 
