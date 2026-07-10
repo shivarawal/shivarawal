@@ -6,7 +6,7 @@
 
 ### DevOps Engineer • Platform Engineer • Cloud Enthusiast
 
-Building production-grade infrastructure, Kubernetes platforms, CI/CD pipelines and observability solutions.
+Building production-grade infrastructure, Kubernetes platforms, CI/CD pipelines, automation and observability solutions.
 
 <p>
 
@@ -14,19 +14,19 @@ Building production-grade infrastructure, Kubernetes platforms, CI/CD pipelines 
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
 <a href="https://x.com/Devops_Shiva">
 <img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x"/>
 </a>
 
-<a href="https://github.com/shivarawal">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+<a href="mailto:YOUR_EMAIL@example.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
+
+<img src="https://img.shields.io/badge/Open_to_Work-Remote_DevOps_Roles-success?style=for-the-badge"/>
+
+<img src="https://komarev.com/ghpvc/?username=shivarawal&style=for-the-badge"/>
 
 </div>
 
@@ -34,14 +34,38 @@ Building production-grade infrastructure, Kubernetes platforms, CI/CD pipelines 
 
 # 🚀 About Me
 
-- 💼 DevOps Engineer with 2+ years of production experience
-- ☸️ Building Kubernetes platforms using kubeadm
-- 🐳 Docker & Container Platform enthusiast
-- ⚙️ Infrastructure Automation using Terraform
-- ☁️ Learning Azure Cloud Platform
-- 📊 Passionate about Observability & Monitoring
-- 📚 Preparing for Certified Kubernetes Administrator (CKA)
-- 🚀 Building **Engineering OS** – a collection of enterprise DevOps platforms
+I'm a **DevOps Engineer** with **2+ years of hands-on production experience** building, maintaining and automating infrastructure.
+
+My primary interests are:
+
+- ☸ Kubernetes & Platform Engineering
+- 🐳 Docker & Containerization
+- ⚙ Infrastructure as Code
+- ☁ Azure Cloud
+- 📊 Monitoring & Observability
+- 🚀 CI/CD Automation
+- 🐧 Linux System Administration
+
+Currently preparing for the **Certified Kubernetes Administrator (CKA)** certification while building enterprise-grade DevOps portfolio projects.
+
+---
+
+# 💼 Production Experience
+
+- Linux Server Administration
+- Docker Container Management
+- Kubernetes (kubeadm)
+- GitHub Actions CI/CD
+- Infrastructure Automation
+- Azure Virtual Machines
+- MySQL & MariaDB
+- Apache & Nginx
+- Prometheus
+- Grafana
+- Loki
+- Elasticsearch
+- Filebeat
+- Git & GitHub
 
 ---
 
@@ -52,6 +76,27 @@ Building production-grade infrastructure, Kubernetes platforms, CI/CD pipelines 
 <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,azure,bash,git,githubactions,python,mysql,vscode&perline=6"/>
 
 </p>
+
+---
+
+# ⭐ Featured Projects
+
+## 🛡 Engineering OS
+
+A collection of production-style DevOps and Platform Engineering projects.
+
+### Platforms
+
+- 🛡 Sentinel — Enterprise Observability Platform
+- ☸ Titan — Kubernetes Platform
+- 🏗 Atlas — Infrastructure as Code
+- ⚙ Forge — CI/CD Platform
+- 🗄 Helix — Database Platform
+- 🔥 Phoenix — Site Reliability Engineering
+- 🖥 Vertex — Linux Engineering
+- 🌐 Nexus — Networking Engineering
+- 🔐 Fortress — DevSecOps
+- 📨 Pulse — Messaging Platform
 
 ---
 
@@ -73,7 +118,7 @@ Building production-grade infrastructure, Kubernetes platforms, CI/CD pipelines 
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 Contribution Graph
 
 <p align="center">
 
@@ -93,37 +138,32 @@ Building production-grade infrastructure, Kubernetes platforms, CI/CD pipelines 
 
 ---
 
-# 🏗 Engineering OS
-
-Building production-grade DevOps platforms.
-
-| Project | Description |
-|----------|-------------|
-| 🛡 Sentinel | Enterprise Monitoring Platform |
-| ☸ Titan | Kubernetes Platform |
-| 🏗 Atlas | Infrastructure as Code |
-| ⚙ Forge | CI/CD Platform |
-| 🗄 Helix | Database Platform |
-| 🔥 Phoenix | SRE Platform |
-| 🖥 Vertex | Linux Engineering |
-| 🌐 Nexus | Networking Engineering |
-| 🔐 Fortress | DevSecOps Platform |
-| 📨 Pulse | Messaging Platform |
-
----
-
 # 🎯 Current Focus
 
 - Kubernetes
 - Platform Engineering
 - Azure
 - Terraform
-- GitOps
 - GitHub Actions
+- GitOps
+- Helm
 - Prometheus
 - Grafana
 - Loki
 - Elasticsearch
+- Linux
+
+---
+
+# 📚 Currently Learning
+
+- Certified Kubernetes Administrator (CKA)
+- Azure Platform Engineering
+- GitOps
+- Argo CD
+- Helm
+- Advanced Kubernetes Networking
+- Production Observability
 
 ---
 
@@ -142,12 +182,12 @@ Building production-grade DevOps platforms.
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
 <a href="https://x.com/Devops_Shiva">
 <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x"/>
+</a>
+
+<a href="mailto:shivarawalddr@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -156,8 +196,8 @@ Building production-grade DevOps platforms.
 
 <div align="center">
 
-### ⭐ Build • Break • Fix • Automate • Document ⭐
+## ⭐ Build • Automate • Scale • Observe • Secure ⭐
 
-![](https://komarev.com/ghpvc/?username=shivarawal&style=for-the-badge&color=blue)
+*"Building production-grade DevOps platforms one project at a time."*
 
 </div>
