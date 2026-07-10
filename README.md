@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="./assets/banner-dark.svg" alt="Shiva Rawal Banner" width="100%"/>
+
+</div>
+
 # 👋 Hi, I'm Shiva Rawal
 
 ### DevOps Engineer | Platform Engineer | Cloud Enthusiast
