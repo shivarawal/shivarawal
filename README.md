@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="./assets/banner-dark.svg" alt="Shiva Rawal Banner" width="100%" />
+<img src="./assets/banner-dark.svg" width="100%" alt="Shiva Rawal Banner">
 
-#  Hi, I'm Shiva Rawal
+# Hi, I'm Shiva Rawal
 
 ### DevOps Engineer • Platform Engineer • Cloud Enthusiast
 
-Building production-grade infrastructure, Kubernetes platforms, CI/CD pipelines, automation and observability solutions.
+Building production-grade Kubernetes platforms, CI/CD pipelines, Infrastructure as Code and Observability solutions.
 
 <p>
 
@@ -18,8 +18,8 @@ Building production-grade infrastructure, Kubernetes platforms, CI/CD pipelines,
 <img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:shivarawalddr@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -32,21 +32,23 @@ Building production-grade infrastructure, Kubernetes platforms, CI/CD pipelines,
 
 ---
 
-#  About Me
+# About Me
 
-I'm a **DevOps Engineer** with **2+ years of hands-on production experience** building, maintaining and automating infrastructure.
+I'm a **DevOps Engineer** with **2+ years of production experience** designing, deploying and maintaining enterprise infrastructure.
 
-My primary interests are:
+I enjoy building production-ready platforms around Kubernetes, Linux, automation, monitoring and cloud technologies.
 
--  Kubernetes & Platform Engineering
--  Docker & Containerization
--  Infrastructure as Code
--  Azure Cloud
--  Monitoring & Observability
--  CI/CD Automation
--  Linux System Administration
+### Current Interests
 
-Currently preparing for the **Certified Kubernetes Administrator (CKA)** certification while building enterprise-grade DevOps portfolio projects.
+- Kubernetes & Platform Engineering
+- Docker & Containerization
+- Microsoft Azure
+- Infrastructure as Code
+- GitHub Actions CI/CD
+- Observability & Monitoring
+- Linux Administration
+
+Currently preparing for the **Certified Kubernetes Administrator (CKA)** while building **Engineering OS**, a collection of enterprise-grade DevOps platforms.
 
 ---
 
@@ -57,9 +59,9 @@ Currently preparing for the **Certified Kubernetes Administrator (CKA)** certifi
 - Kubernetes (kubeadm)
 - GitHub Actions CI/CD
 - Infrastructure Automation
-- Azure Virtual Machines
-- MySQL & MariaDB
+- Microsoft Azure Virtual Machines
 - Apache & Nginx
+- MySQL & MariaDB
 - Prometheus
 - Grafana
 - Loki
@@ -69,11 +71,11 @@ Currently preparing for the **Certified Kubernetes Administrator (CKA)** certifi
 
 ---
 
-#  Tech Stack
+# 🛠 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,azure,bash,git,githubactions,python,mysql,vscode&perline=6"/>
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,azure,bash,git,githubactions,python,mysql,vscode,prometheus&perline=6"/>
 
 </p>
 
@@ -81,22 +83,22 @@ Currently preparing for the **Certified Kubernetes Administrator (CKA)** certifi
 
 # Featured Projects
 
-##  Engineering OS
+## Engineering OS
 
-A collection of production-style DevOps and Platform Engineering projects.
+A collection of enterprise-grade DevOps platforms built from scratch.
 
-### Platforms
-
-- Sentinel — Enterprise Observability Platform
-- Titan — Kubernetes Platform
-- Atlas — Infrastructure as Code
-- Forge — CI/CD Platform
-- Helix — Database Platform
-- Phoenix — Site Reliability Engineering
-- Vertex — Linux Engineering
-- Nexus — Networking Engineering
-- Fortress — DevSecOps
-- Pulse — Messaging Platform
+| Platform | Description |
+|----------|-------------|
+| Sentinel | Enterprise Observability Platform |
+| Titan | Kubernetes Platform |
+| Atlas | Infrastructure as Code |
+| Forge | CI/CD Platform |
+| Helix | Database Platform |
+| Phoenix | Site Reliability Engineering |
+| Vertex | Linux Engineering |
+| Nexus | Networking Engineering |
+| Fortress | DevSecOps Platform |
+| Pulse | Messaging Platform |
 
 ---
 
@@ -104,9 +106,9 @@ A collection of production-style DevOps and Platform Engineering projects.
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivarawal&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shivarawal&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivarawal&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivarawal&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
@@ -118,7 +120,27 @@ A collection of production-style DevOps and Platform Engineering projects.
 
 ---
 
-# Contribution Graph
+# GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=shivarawal&theme=algolia&no-frame=true&margin-w=10&row=2&column=4"/>
+
+</p>
+
+---
+
+# Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivarawal&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# Contribution Snake
 
 <p align="center">
 
@@ -132,7 +154,7 @@ A collection of production-style DevOps and Platform Engineering projects.
 
 <p align="center">
 
-<img src="./metrics.svg"/>
+<img src="https://raw.githubusercontent.com/shivarawal/shivarawal/output/metrics.svg"/>
 
 </p>
 
@@ -155,7 +177,7 @@ A collection of production-style DevOps and Platform Engineering projects.
 
 ---
 
-#  Currently Learning
+# Currently Learning
 
 - Certified Kubernetes Administrator (CKA)
 - Azure Platform Engineering
@@ -169,12 +191,12 @@ A collection of production-style DevOps and Platform Engineering projects.
 
 # Certifications
 
-- ✅ Microsoft Azure Fundamentals (AZ-900)
-- 📖 Certified Kubernetes Administrator (In Progress)
+- Microsoft Azure Fundamentals (AZ-900)
+- Certified Kubernetes Administrator (In Progress)
 
 ---
 
-# 📫 Connect With Me
+#  Connect With Me
 
 <p align="center">
 
@@ -196,8 +218,10 @@ A collection of production-style DevOps and Platform Engineering projects.
 
 <div align="center">
 
-##  Build • Automate • Scale • Observe • Secure 
+## Build • Automate • Scale • Observe • Secure
 
 *"Building production-grade DevOps platforms one project at a time."*
+
+Thanks for visiting my profile!
 
 </div>
