@@ -1,0 +1,45 @@
+name: Generate GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          user: shivarawal
+          template: classic
+
+          base: header, activity, community, repositories, metadata
+
+          config_timezone: Asia/Kolkata
+
+          plugin_languages: yes
+          plugin_languages_limit: 10
+          plugin_languages_categories: programming, markup
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          plugin_followup: yes
+          plugin_followup_sections: repositories
+
+          plugin_stars: yes
+
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+
+          plugin_repositories: yes
+          plugin_repositories_featured: shivarawal/Engineering-OS
