@@ -1,67 +1,233 @@
-# Hi, I'm Shiva Rawal 
-### DevOps Engineer · Linux · Docker · Kubernetes · Terraform · Azure
+<div align="center">
 
-I'm a solo DevOps engineer with 2 years of production experience 
-managing Linux infrastructure, containerized workloads, and Azure 
-cloud for a live HRMS SaaS product.
+# 👋 Hi, I'm Shiva Rawal
 
-I build things outside of work to understand them properly — not 
-just follow tutorials.
+### DevOps Engineer | Platform Engineer | Cloud Enthusiast
 
-
-##  What I work with
-
-| Category | Tools |
-|----------|-------|
-| Containers | Docker, Containerd |
-| Orchestration | Kubernetes (kubeadm, Calico) |
-| Infrastructure as Code | Terraform (Azure) |
-| Cloud | Microsoft Azure |
-| Observability | Grafana, Prometheus, Alertmanager, Node Exporter, Blackbox Exporter |
-| CI/CD | GitHub Actions |
-| OS | Linux (Rocky Linux, Ubuntu, RHEL) |
-| Monitoring | Zabbix, Elasticsearch |
+Building production-grade infrastructure, Kubernetes platforms, CI/CD pipelines, and observability solutions.
 
 ---
 
-##  Featured Projects
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+[![Portfolio](https://img.shields.io/badge/Engineering%20OS-Portfolio-success?style=for-the-badge)](YOUR_GITHUB)
 
-###  [K8s Cluster on VMware](https://github.com/shivarawal/k8s-cluster-on-vmware)
-Production-style 2-node Kubernetes cluster built from scratch on 
-VMware using kubeadm, Calico CNI, containerd, and Rocky Linux.
-No shortcuts — fully manual setup to understand every layer.
-###  [K8s Monitoring — Prometheus & Grafana](https://github.com/shivarawal/k8s-monitoring-prometheus-grafana)
-Manual deployment of Prometheus and Grafana inside Kubernetes 
-without Helm. Built this to understand what Helm abstracts away.
-
-###  [K8s Alerting — Alertmanager](https://github.com/shivarawal/k8s-alerting-prometheus-alertmanager)
-Alertmanager setup integrated with Prometheus for production-grade 
-alerting inside a Kubernetes cluster.
-
-### [Terraform Azure Infrastructure](https://github.com/shivarawal/terraform-azure-infrastructure)
-Terraform project with modules, networking, VM provisioning, and 
-remote backend configuration on Azure. Built to learn IaC properly.
-
-
-## Production Work
-
-At Megamax Services I'm the sole DevOps engineer responsible for:
-- 12+ production containers running HRMS, aviation, solar and services apps
-- Full observability stack — Grafana, Prometheus, Alertmanager
-- Azure VM lifecycle management and cost optimization
-- Linux server hardening and disk management
-- Zero-downtime incident resolution
+</div>
 
 ---
 
-##  Currently Learning
-- Advanced Kubernetes (RBAC, network policies, persistent volumes)
-- Terraform modules and workspaces at scale
-- GitHub Actions advanced workflows
+# 🚀 About Me
+
+- 💻 DevOps Engineer with 2+ years of hands-on experience
+- ☸ Building production-grade Kubernetes environments
+- 🐳 Docker & Container Platform enthusiast
+- 🌍 Learning Cloud, Platform Engineering & DevOps at enterprise scale
+- 📚 Currently preparing for CKA
+- 🚀 Building **Engineering OS** — a collection of real-world DevOps platforms
 
 ---
 
-##  Let's connect
--  [LinkedIn] (https://www.linkedin.com/in/shivarawal)
--  shivarawalddr@gmail.com
--  Open to remote DevOps roles
+# 🛠 Tech Stack
+
+## Operating Systems
+
+- Rocky Linux
+- Ubuntu
+- CentOS
+
+## DevOps
+
+- Docker
+- Kubernetes
+- Helm
+- GitHub Actions
+- Git
+- Bash
+
+## Cloud
+
+- Microsoft Azure
+- Terraform
+
+## Monitoring
+
+- Prometheus
+- Grafana
+- Loki
+- Elasticsearch
+- Kibana
+- Filebeat
+
+## Databases
+
+- MySQL
+- MariaDB
+
+## Web Servers
+
+- Nginx
+- Apache
+
+## Languages
+
+- Bash
+- YAML
+- Python (Learning)
+
+---
+
+# 🚀 Engineering OS
+
+A collection of production-grade engineering platforms.
+
+| Platform | Description |
+|----------|-------------|
+| 🛡 Sentinel | Enterprise Observability Platform |
+| ☸ Titan | Enterprise Kubernetes Platform |
+| 🏗 Atlas | Infrastructure as Code |
+| ⚙ Forge | CI/CD Platform |
+| 🗄 Helix | Database Platform |
+| 🔥 Phoenix | SRE Platform |
+| 🌐 Nexus | Networking Platform |
+| 🔐 Fortress | DevSecOps Platform |
+
+---
+
+# 📂 Featured Projects
+
+## 🛡 Sentinel
+
+Enterprise monitoring platform using
+
+- Prometheus
+- Grafana
+- Loki
+- Elasticsearch
+- Kibana
+
+---
+
+## ☸ Titan
+
+Production Kubernetes platform
+
+- kubeadm
+- Helm
+- Ingress
+- Storage
+- Networking
+- Security
+
+---
+
+## ⚙ Forge
+
+GitHub Actions CI/CD
+
+- Build
+- Test
+- Deploy
+- Rollback
+- Docker
+- Kubernetes
+
+---
+
+## 🏗 Atlas
+
+Infrastructure as Code
+
+- Terraform
+- Azure
+- Networking
+- Virtual Machines
+- Storage
+
+---
+
+# 📜 Certifications
+
+- ✅ Microsoft Azure Fundamentals (AZ-900)
+- 🎯 Certified Kubernetes Administrator (In Progress)
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=2&column=4"/>
+
+</p>
+
+---
+
+# 🎯 Current Focus
+
+✔ Platform Engineering
+
+✔ Kubernetes
+
+✔ GitOps
+
+✔ Terraform
+
+✔ Azure
+
+✔ Observability
+
+✔ Linux
+
+✔ CI/CD
+
+✔ DevSecOps
+
+---
+
+# 📫 Let's Connect
+
+- LinkedIn
+- Email
+- GitHub
+
+---
+
+<div align="center">
+
+### ⭐ Build • Break • Fix • Automate • Document ⭐
+
+**Engineering production-ready platforms, one project at a time.**
+
+</div>
